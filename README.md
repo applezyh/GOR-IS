@@ -84,6 +84,8 @@ git clone https://github.com/applezyh/GOR-IS.git --recursive
 conda create -n goris python=3.12
 conda activate goris
 pip install requirements.txt
+pip install submodules/diff-gaussian-rasterization
+pip install submodules/simple-knn
 ```
 
 Next, install [**nvdiffrast**](https://github.com/NVlabs/nvdiffrast) by following the instructions in its official repository.
