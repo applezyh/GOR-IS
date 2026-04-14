@@ -66,7 +66,7 @@ We propose GOR-IS, a novel framework that enhances both the physical consistency
 
 4. **Comparison on the GOR-IS-Synthetic dataset.**
 
-    <img src="./assets/new_features.png" alt="pipeline" style="zoom:50%;" />
+    <img src="./assets/new_features.png" alt="pipeline" style="zoom:30%;" />
 
     | Methods       | PSNR      | SSIM      | LPIPS     | FID      | M-LPIPS   | M-FID    |
     | ------------- | --------- | --------- | --------- | -------- | --------- | -------- |
