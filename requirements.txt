@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+opencv-python
+numpy
+scikit-learn
+matplotlib
+tqdm
+trimesh
+plyfile
+open3d
+scipy
+tensorboard # or wandb
+simple-lama-inpainting
