@@ -2,7 +2,7 @@
 <img src="./assets/logo.png" alt="Paper PDF" width="100"><h1>
 GOR-IS: 3D Gaussian Object Removal in the Intrinsic Space<br><sub>CVPR 2026 Highlight</sub>
 </h1>
-  <a href="https://applezyh.github.io/GOR-IS-project-page/static/pdfs/GOR-IS-paper.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://arxiv.org/abs/2605.00498" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Paper-VGGT" alt="Paper PDF">
     </a>
   <a href="https://applezyh.github.io/GOR-IS-project-page/"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page">
