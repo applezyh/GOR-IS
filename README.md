@@ -83,7 +83,7 @@ git clone https://github.com/applezyh/GOR-IS.git --recursive
 # Create and activate the conda environment
 conda create -n goris python=3.12
 conda activate goris
-pip install requirements.txt
+pip install -r requirements.txt
 pip install submodules/diff-gaussian-rasterization
 pip install submodules/simple-knn
 ```
