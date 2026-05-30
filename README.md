@@ -101,6 +101,8 @@ rm -rf ./build && mkdir build && cd build && cmake .. && make && cd ../
 # Install the package
 pip install .
 ```
+A `Segmentation fault (core dumped)` error may be related to the issue discussed in [fudan-zvg/IRGS#5](https://github.com/fudan-zvg/IRGS/issues/5#issuecomment-2958871812). Please try the suggested fix, then rebuild and reinstall `gtracer` before running the code again.
+
 Please note that we have made necessary modifications to **gtracer**. For compatibility, kindly use the version provided in `./submodules` for installation.
 
 ## 📊 Dataset ([Hugging Face](https://huggingface.co/datasets/applezyh/GOR-IS-datasets)) ([Baidu Netdisk](https://pan.baidu.com/s/1JckAz6uxNZe7hKqIVTnjUA?pwd=nf5r))
